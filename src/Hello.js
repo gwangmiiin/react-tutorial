@@ -8,5 +8,5 @@ function Hello({color , name}) {
 
 Hello.defaultProps = {
   name: '이름없음'
-}
+} // 기본값 설정
 export default Hello;
